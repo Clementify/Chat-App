@@ -1,0 +1,44 @@
+
+*{
+    box-sizing: border-box;
+}
+
+.container{
+    background-color: aliceblue;
+    display: flex;
+    height: 100vh;
+    width: 100vw;
+}
+
+.sender1{
+    height: 100%;
+    width: 50%;
+}
+
+.sender2{
+    height: 100%;
+    width: 50%;
+    background-color: aliceblue;
+    margin: 10%;
+}
+
+.first-left{
+    height: 50%;
+    width: 60%;
+    background-color:#eca9ec;
+    border: 5px solid black;
+    border-style: dotted;
+    border-radius: 6px;
+}
+.first-right{
+    height: 50%;
+    width: 60%;
+    background-color:aquamarine;
+    border: 5px solid black;
+    border-radius: 6px;
+
+}
+.second-left{
+font-size: 2px;
+color: #eca9ec;
+}
