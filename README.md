@@ -5,7 +5,7 @@
 - run "npm install"
 - run "npm run lint:all" to run all lint error, "npm run lint:css" for css error check and "npm run lint:html" for html error check
 ## Live Site
-Click [Here](https://clementify.github.io/chat-app/) to view live site
+Click [Here](https://clementify.github.io/Chat-App/) to view live site
 ## Acknowledgement
 - Mr Tony Dilibe
 - Mrs Ngozi
